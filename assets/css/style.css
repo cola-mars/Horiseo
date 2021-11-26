@@ -135,9 +135,7 @@ p {
     max-width: 150px;
 }
 /*content container stylings*/
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.container {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,9 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+.container img {
     max-height: 200px;
 }
 .container h2 {
