@@ -9,7 +9,7 @@
 - The **issues** we scouted for were:
  - [x] non-semantic elements that could be replaced with semantic elements offered in HTML5, such as `<nav>, <header>, <footer>, <section>, and <article>`,
  - [x] images that did not have descriptive alternative text attributes,
- - [x] appropriate HTML organization and structure along with a CSS file that follows said structure,
+ - [x] HTML and CSS file disorganization and structure,
  - [x] broken or missing links, repetitive code, and missing comments before each new section.
 
 
