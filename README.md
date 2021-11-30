@@ -15,9 +15,9 @@
 
 ## Screenshots
 ```md
-![image-1](assets/images/screen-1.png)
-![image-2](assets/images/screen-2.png)
-![image-3](assets/images/screen-3.png)
+![image](https://user-images.githubusercontent.com/86696492/143972271-9dd28a65-46f1-4d9f-867e-c64d6bcaf89b.png)
+![image](https://user-images.githubusercontent.com/86696492/143972472-abeb2ce1-4584-49d5-b916-89442e72eefe.png)
+
 ```
 
 
